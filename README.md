@@ -23,6 +23,7 @@ I enjoy exploring the world of **Cloud Infrastructure**, **Backend Development**
 - Advanced Cloud Architecture on GCP  
 - Backend Development with JavaScript  
 - System Design and Scalable Applications
+- Fullstack Development
 
 ### 📫 Let’s Connect!
 

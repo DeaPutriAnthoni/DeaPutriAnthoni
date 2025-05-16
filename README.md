@@ -1,11 +1,38 @@
- 👋 Hi, I’m @DeaPutriAnthoni
-# Hi Everyone!!👋 
+<h1 align="center">Hi there 👋, I'm Dea Putri Anthoni</h1>
 
-## My name is **Dea Putri Anthoni**.<br>
+<p align="center">
+🌥️ Cloud Enthusiast | 💻 JavaScript Developer | 🎓 Distinction Graduate at Bangkit Academy 2024   
+</p>
 
-I'm a **Bangkit 2024 Batch 2 Cloud Computing's Cohort** in [Dicoding](https://www.dicoding.com/).<br>
+---
 
-If you want to know me better, let's connect! [Linkedin](https://www.linkedin.com/in/deaputrianthoni/) [Instagram](https://www.instagram.com/deapxtri) 💕
+### 🚀 About Me
+
+I'm a passionate and curious tech learner.
+I enjoy exploring the world of **Cloud Infrastructure**, **Backend Development**, and **JavaScript-based technologies**.
+
+### 🛠️ Technologies & Tools
+
+- ☁️ Cloud: Google Cloud Platform (GCP), Firebase
+- 💻 Languages: JavaScript, C++, Python, Java, SQL
+- 🔧 Tools: Git & GitHub, VS Code, Postman, Docker (learning!)
+- 🌐 Web: Node.js, Express.js, HTML/CSS
+
+### 🌱 Currently Learning
+
+- Advanced Cloud Architecture on GCP  
+- Backend Development with JavaScript  
+- System Design and Scalable Applications
+
+### 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/deaputrianthoni/)  
+- 📷 [Instagram](https://www.instagram.com/deapxtri)  
+- 💌 Let's collaborate on cloud or web projects!
+
+---
+
+_✨ “Keep learning, keep building.” ✨_
 
 <!---
 DeaPutriAnthoni/DeaPutriAnthoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

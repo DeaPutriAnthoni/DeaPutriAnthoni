@@ -14,7 +14,7 @@ I enjoy exploring the world of **Cloud Infrastructure**, **Backend Development**
 ### 🛠️ Technologies & Tools
 
 - ☁️ Cloud: Google Cloud Platform (GCP), Firebase
-- 💻 Languages: JavaScript, C++, Python, Java, SQL
+- 💻 Languages: JavaScript, C++, Python, Java, PHP, SQL
 - 🔧 Tools: Git & GitHub, VS Code, Postman, Docker (learning!)
 - 🌐 Web: Node.js, Express.js, HTML/CSS
 

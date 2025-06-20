@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 I'm a passionate and curious tech learner.
-I enjoy exploring the world of **Cloud Infrastructure**, **Backend Development**, and **JavaScript-based technologies**.
+I enjoy exploring the world of **Cloud Infrastructure**, **Full-Stack Development**, and **JavaScript-based technologies**.
 
 ### 🛠️ Technologies & Tools
 
